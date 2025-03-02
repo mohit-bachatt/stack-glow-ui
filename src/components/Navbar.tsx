@@ -28,10 +28,10 @@ const Navbar = () => {
               <a href="https://www.ropes.ai/pricing" className="text-white/70 hover:text-white transition-colors text-sm">
                 Pricing
               </a>
-              <a href="https://www.bolna.dev/#pricing" className="text-white/70 hover:text-white transition-colors text-sm">
+              <a href="https://www.ropes.ai/careers" className="text-white/70 hover:text-white transition-colors text-sm">
                 Careers
               </a>
-              <a href="https://www.ropes.ai/careers" className="text-white/70 hover:text-white transition-colors text-sm">
+              <a href="https://www.ropes.ai/signup" className="text-white/70 hover:text-white transition-colors text-sm">
                 Contact us
               </a>
             </div>
